@@ -3,10 +3,7 @@
 **🏆 Carnegie Mellon 15-112 Hackathon 1st Place Winner 🏆**
 
 
-Our game, FARNAMS FIGHT OFF, is a two-player fighter game based on the beloved
-Street Fighter classics, with an innovative twist. You can choose to play
-with normal keyboard controls with each player on either side of the keyboard.
-OR have one player play with computer vision while the other uses the keyboard.
+Our game, FARNAMS FIGHT OFF, is a two-player fighter game based on the beloved Street Fighter classics, with an innovative twist. You can choose to play with normal keyboard controls with each player on either side of the keyboard. OR have one player play with ✨computer vision✨ while the other uses the keyboard.
 
 ### 🕹️ Player Controls for Pat
 
@@ -51,7 +48,7 @@ Kenneth Sorrell (ksorrel2@andrew.cmu.edu)
 ### ❤️ Special Thanks to
 James Tcheng
 
-### References
+### 🔗 References
 https://www.pygame.org/docs/
 https://www.tensorflow.org/hub/tutorials/movenet
 
