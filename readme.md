@@ -42,11 +42,11 @@ If packages are missing, install them manually:
     pip install math
 
 ### 💻 Authors
-Rahim Malik (rahimm@andrew.cmu.edu)
+Rahim Malik (rahimm@andrew.cmu.edu)<br/>
 Kenneth Sorrell (ksorrel2@andrew.cmu.edu)
 
 ### ❤️ Special Thanks to
-James Tcheng
+James Tcheng (ztcheng@andrew.cmu.edu)
 
 ### 🔗 References
 https://www.pygame.org/docs/
