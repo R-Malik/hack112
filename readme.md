@@ -5,6 +5,8 @@
 
 Our game, FARNAMS FIGHT OFF, is a two-player fighter game based on the beloved Street Fighter classics, with an innovative twist. You can choose to play with normal keyboard controls with each player on either side of the keyboard. OR have one player play with ✨computer vision✨ while the other uses the keyboard.
 
+*NOTE: This project was created for educational purposes within Carnegie Mellon University and NOT intended for commercial use. Permission to sell, license, sublicense, publish, or distribute this software without permission from the authors is NOT granted unless it falls under Fair Use. No warranty is provided for copies of this software. Character assets are property of CAPCOM and the jump sound effect is property of Nintendo.*
+
 ### 🕹️ Player Controls for Pat
 
 W, A, S, D = up, left, down, right<br/>
@@ -17,7 +19,7 @@ M, COMMA, PERIOD = block, punch, kick
 
 ### 🎥 Player Controls for Pat (VISION)
 
-Please stand about 3-4 feet away from the webcam on your computer and try to stay to in frame. The following inputs are pretty straightforward:
+Please stand about 3-4 feet away from the webcam on your computer, face in the same direction as the character, and try to stay to in frame. The following inputs are pretty straightforward:
 
 JUMP = JUMP<br/>
 PUNCH = PUNCH<br/>
