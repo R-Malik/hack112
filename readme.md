@@ -7,41 +7,44 @@ Our game, FARNAMS FIGHT OFF, is a two-player fighter game based on the beloved S
 
 *NOTE: This project was created for educational purposes within Carnegie Mellon University and NOT intended for commercial use. Permission to sell, license, sublicense, publish, or distribute this software without permission from the authors is NOT granted unless it falls under Fair Use. No warranty is provided for copies of this software. Character assets are property of CAPCOM and the jump sound effect is property of Nintendo.*
 
+
 ### 🕹️ Player Controls for Pat
 
-W, A, S, D = up, left, down, right<br/>
-E, R, T = block, punch, kick
+W, A, S, D    -->    up, left, down, right<br/>
+E, R, T    -->    block, punch, kick
 
 ### 🕹️ Player Controls for Mike
 
-⬆, ⬅, ⬇, ▶ = up, left, down, right<br/>
-M, COMMA, PERIOD = block, punch, kick
+⬆, ⬅, ⬇, ▶    -->    up, left, down, right<br/>
+M, COMMA, PERIOD    -->    block, punch, kick
 
 ### 🎥 Player Controls for Pat (VISION)
 
 Please stand about 3-4 feet away from the webcam on your computer, face in the same direction as the character, and try to stay to in frame. The following inputs are pretty straightforward:
 
-JUMP = JUMP<br/>
-PUNCH = PUNCH<br/>
-LEAN FORWARD = right<br/>
-LEAN BACK = left<br/>
-CROUCH = CROUCH
+JUMP    -->    jump<br/>
+PUNCH    -->    punch<br/>
+LEAN FORWARD    -->    right<br/>
+LEAN BACK    -->    left<br/>
+CROUCH    -->    crouch
 
 ### 💾 Installation
 Make sure your Python has certificates installed, so tensorflow can make an http request to download the training model.
-
-run **main.py**<br/>
-run **light.py** if you don't want computer vision
+```
+run main.py
+run light.py         # if you don't want computer vision
+```
 
 If packages are missing, install them manually:<br/>
-    pip install pygame<br/>
-    pip install pygame.locals<br/>
-    pip install tensorflow<br/>
-    pip install tensorflow_hub<br/>
-    pip install numpy<br/>
-    pip install cv2<br/>
-    pip install math
-
+```
+pip install pygame
+pip install pygame.locals
+pip install tensorflow
+pip install tensorflow_hub
+pip install numpy
+pip install cv2
+pip install math
+```
 ### 💻 Authors
 Rahim Malik (rahimm@andrew.cmu.edu)<br/>
 Kenneth Sorrell (ksorrel2@andrew.cmu.edu)
