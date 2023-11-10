@@ -46,7 +46,7 @@ If packages are missing, install them manually:<br/>
 Rahim Malik (rahimm@andrew.cmu.edu)<br/>
 Kenneth Sorrell (ksorrel2@andrew.cmu.edu)
 
-### ❤️ Special Thanks to
+### ❤️ Special Thanks
 James Tcheng (ztcheng@andrew.cmu.edu)
 
 ### 🔗 References
